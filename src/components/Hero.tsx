@@ -46,7 +46,7 @@ export const Hero = () => {
 
       {/* Hero cards sections */}
       <div className="z-10">
-        <HeroCards />
+        {/* <HeroCards /> */}
       </div>
 
       {/* Shadow effect */}
